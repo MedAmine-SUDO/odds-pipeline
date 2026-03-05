@@ -12,10 +12,14 @@ Built as a portfolio demonstration of API extraction → ETL → automated stora
 ![Pipeline log output](screenshots/pipeline_run.png)
 
 ### SQLite query results
-![Query output](screenshots/query_output.png)
+![Query output](screenshots/query_run_1.png)
+![Query output](screenshots/query_run_2.png)
 
 ### CSV snapshot
 ![CSV output](screenshots/csv_output.png)
+
+### DB snapshot
+![DB output](screenshots/db_snapshot.png)
 
 ---
 
